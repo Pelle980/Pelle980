@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Styding to become a webdeveloper<br>📚 I'm currently going to school at Hansenberg<br>🎯 Goals: Become a Webdeveloper<br>🎲 Fun fact: if you refresh this counter goes up</p>
+<p align="left">✨ Styding to become a webdeveloper<br>📚 I'm currently going to school at Hansenberg<br>🎯 Goals: Become a Webdeveloper<br>🎲 Fun fact: if you refresh the counter goes up</p>
 
 ###
 
